@@ -1,0 +1,57 @@
+
+
+	Connection of java with database(mysql)
+	5 steps :
+		loading driver
+		
+		establishing the connection 
+		
+		create a stmt
+		
+		execute the query
+		
+		close the connection 
+		
+		
+		
+		why Spring boot?
+		
+		Spring : 
+		(configuration // reducing the code) 
+		
+		Servlets --> java code + html code
+		
+		
+		Disadvantages of servlets
+		add jar files
+		start the stop the server
+		web.xml (deployement descriptor)
+		
+		
+		Spring ==> framework  , libraries(predefined)
+		//reduce the code 
+		
+		2nd version Spring boot (Frame work of framework)
+		==>hibernate (Jdbc)
+		==>EJB
+		 
+		 ==>IOC ==>Inversion of control
+		 ==>DI
+		 ==>Spring Container
+		 
+		 ==>tight Coupling
+		 ==>Loose Coupling
+		 
+		 ==>Layern of Concerns
+			=> Entity layer (connect template class)[==>Db]
+			=>persistance layer (crud operation) 
+			=>Service layer 
+			==>Controller(  ui) [ ==> fend ]
+			
+			
+			
+			core concepts ==> objects , methods
+			
+		
+		Db ==> java code ==> fend
+		 java code ==> layers
